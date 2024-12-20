@@ -1,0 +1,39 @@
+h2.margin1 {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background-color: #fff000;
+}
+
+p.margin1 {
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: #fff000;
+}
+
+.margin2 {
+    margin: 25px;
+}
+
+.margin3 {
+    margin: 25px 50px;
+}
+
+.margin4 {
+    margin: 25px 75px 50px;
+}
+
+.margin5 {
+    margin: 25px 50px 75px 100px;
+}
+
+
+.margin2, .margin3, .margin4, .margin5 {
+    background: #fff000;
+}
+
+.container {
+    width: 300px;
+    height: 200px;
+    background: #fff000;
+    margin: 0 auto;
+}
